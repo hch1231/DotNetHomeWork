@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\16482\\source\\repos\\dotnetzy1.3\\dotnetzy1.3\\dotnetzy1.3.csproj",
+      "projectUniqueName": "C:\\Users\\16482\\source\\repos\\DotNetHomeWork\\dotnetzy1.3\\dotnetzy1.3\\dotnetzy1.3.csproj",
       "projectName": "dotnetzy1.3",
-      "projectPath": "C:\\Users\\16482\\source\\repos\\dotnetzy1.3\\dotnetzy1.3\\dotnetzy1.3.csproj",
+      "projectPath": "C:\\Users\\16482\\source\\repos\\DotNetHomeWork\\dotnetzy1.3\\dotnetzy1.3\\dotnetzy1.3.csproj",
       "packagesPath": "C:\\Users\\16482\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\16482\\source\\repos\\dotnetzy1.3\\dotnetzy1.3\\obj\\",
+      "outputPath": "C:\\Users\\16482\\source\\repos\\DotNetHomeWork\\dotnetzy1.3\\dotnetzy1.3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\16482\\AppData\\Roaming\\NuGet\\NuGet.Config",
